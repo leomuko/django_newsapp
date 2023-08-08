@@ -7,5 +7,4 @@
    
 Screen Shots
 ![Home Page](https://github.com/leomuko/django_newsapp/assets/39113577/f741f41d-41e2-4a83-99bc-bede1425fef9)
-![login](https://github.com/leomuko/django_newsapp/assets/39113577/c5553689-2355-417f-aebd-af2773880e8e)
 ![articles](https://github.com/leomuko/django_newsapp/assets/39113577/e8ac65cb-250d-441b-9a2e-d264891cf66d)
